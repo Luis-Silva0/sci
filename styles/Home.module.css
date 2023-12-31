@@ -107,6 +107,15 @@
 .logo {
   position: relative;
 }
+
+.title {
+  color: #FFF;
+  font-family: Rubik Mono One;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   .card:hover {
